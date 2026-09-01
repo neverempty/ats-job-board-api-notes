@@ -58,6 +58,17 @@ We maintain these as hosted Actors on Apify, returning all five ATSs in one iden
 - [All of our data tools](https://apify.com/neverempty)
 
 
+
+### One Actor per ATS
+
+If you only need one board type, these return the same 29 columns each:
+
+- [Greenhouse Jobs Scraper & API](https://apify.com/neverempty/greenhouse-jobs)
+- [Lever Jobs Scraper & API](https://apify.com/neverempty/lever-jobs)
+- [Ashby Jobs Scraper & API](https://apify.com/neverempty/ashby-jobs)
+- [Workable Jobs Scraper & API](https://apify.com/neverempty/workable-jobs)
+- [Workday Jobs Scraper & API](https://apify.com/neverempty/workday-jobs)
+
 ## Also in this repository
 
 - [US public data APIs: five ways a 200 does not mean "here is your data"](us-public-data-apis.md) — measured notes on the National Weather Service, NOAA tides, NDBC buoys, USGS and the FAA
