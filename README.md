@@ -57,6 +57,11 @@ We maintain these as hosted Actors on Apify, returning all five ATSs in one iden
 - [ATS Job Board Finder — a company domain to its ATS and board name](https://apify.com/neverempty/ats-board-finder)
 - [All of our data tools](https://apify.com/neverempty)
 
+
+## Also in this repository
+
+- [US public data APIs: five ways a 200 does not mean "here is your data"](us-public-data-apis.md) — measured notes on the National Weather Service, NOAA tides, NDBC buoys, USGS and the FAA
+
 ## Licence
 
 The notes and figures in this repository are free to use and quote (CC0). Attribution is welcome but not required.
