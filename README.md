@@ -8,6 +8,8 @@ Every number here was produced by calling the live endpoints on **2026-09-01** a
 
 **See also: [US public data station ids that actually answer](us-station-ids.md)** - 250 NOAA, NWS and USGS ids, each one called and confirmed.
 
+**See also: [which ATS each of 193 companies uses](trade-and-regulatory-apis.md)** - board slugs, board URLs and open role counts, all measured.
+
 ## The short version
 
 | | Greenhouse | Lever | Ashby | Workable | Workday |
