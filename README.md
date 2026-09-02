@@ -4,6 +4,8 @@ Measured notes on the public job board endpoints of **Greenhouse, Lever, Ashby, 
 
 Every number here was produced by calling the live endpoints on **2026-09-01** and counting the rows that came back. Nothing is estimated. Where a figure depends on the company rather than the ATS, it says so.
 
+**See also: [which ATS each of 193 companies uses](company-ats-map.md)** - board slugs, board URLs and open role counts, all measured.
+
 ## The short version
 
 | | Greenhouse | Lever | Ashby | Workable | Workday |
