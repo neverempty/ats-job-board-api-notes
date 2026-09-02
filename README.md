@@ -6,6 +6,8 @@ Every number here was produced by calling the live endpoints on **2026-09-01** a
 
 **See also: [which ATS each of 193 companies uses](company-ats-map.md)** - board slugs, board URLs and open role counts, all measured.
 
+**See also: [which ATS each of 193 companies uses](us-station-ids.md)** - board slugs, board URLs and open role counts, all measured.
+
 ## The short version
 
 | | Greenhouse | Lever | Ashby | Workable | Workday |
