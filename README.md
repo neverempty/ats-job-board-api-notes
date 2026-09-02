@@ -4,11 +4,11 @@ Measured notes on the public job board endpoints of **Greenhouse, Lever, Ashby, 
 
 Every number here was produced by calling the live endpoints on **2026-09-01** and counting the rows that came back. Nothing is estimated. Where a figure depends on the company rather than the ATS, it says so.
 
-**See also: [which ATS each of 193 companies uses](company-ats-map.md)** - board slugs, board URLs and open role counts, all measured.
-
-**See also: [US public data station ids that actually answer](us-station-ids.md)** - 250 NOAA, NWS and USGS ids, each one called and confirmed.
-
-**See also: [which ATS each of 193 companies uses](trade-and-regulatory-apis.md)** - board slugs, board URLs and open role counts, all measured.
+In this repo:
+- [which ATS each of 193 companies uses](company-ats-map.md) - board slugs, board URLs and open role counts, all measured
+- [US public data station ids that actually answer](us-station-ids.md) - 250 NOAA, NWS and USGS ids, each one called and confirmed
+- [five ways a 200 does not mean "here is your data"](us-public-data-apis.md) - the failure modes we hit on the NWS, NOAA, USGS and FAA APIs
+- [what the trade and regulatory APIs actually return](trade-and-regulatory-apis.md) - USITC tariffs, EU tenders, FDA recalls and USGS quakes, measured
 
 ## The short version
 
@@ -62,8 +62,6 @@ We maintain these as hosted Actors on Apify, returning all five ATSs in one iden
 - [ATS Jobs Scraper — Greenhouse, Lever, Ashby, Workable, Workday](https://apify.com/neverempty/ats-jobs-api)
 - [ATS Job Board Finder — a company domain to its ATS and board name](https://apify.com/neverempty/ats-board-finder)
 - [All of our data tools](https://apify.com/neverempty)
-
-
 
 ### One Actor per ATS
 
