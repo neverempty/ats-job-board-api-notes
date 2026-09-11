@@ -74,6 +74,11 @@ If you only need one board type, these return the same 29 columns each:
 - [Workday Jobs Scraper & API](https://apify.com/neverempty/workday-jobs)
 
 
+
+## More measured notes
+
+- [Public data API gotchas, measured](https://github.com/neverempty/public-data-api-gotchas) - 134 traps across SEC EDGAR, Socrata, the Wayback Machine CDX API, GLEIF, ClinicalTrials.gov, NPPES, NHTSA and more, each with the date it was measured.
+
 ## Licence
 
 The notes and figures in this repository are free to use and quote (CC0). Attribution is welcome but not required.
